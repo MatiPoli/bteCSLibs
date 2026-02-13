@@ -1,0 +1,4 @@
+name: BTEConoSurLibs
+version: '3.0.0'
+main: com.bteconosur.bteCSLibs.BTEConoSurLibs
+api-version: '1.21'
