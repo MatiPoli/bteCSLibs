@@ -42,6 +42,9 @@ dependencies {
 
     implementation("dev.triumphteam:triumph-gui:3.1.13")
     implementation("de.rapha149.signgui:signgui:2.5.4")
+
+    implementation("net.megavex:scoreboard-library-api:2.7.0")
+    //runtimeOnly("net.megavex:scoreboard-library-implementation:2.7.0")
 }
 
 tasks {
